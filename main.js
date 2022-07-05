@@ -10,7 +10,7 @@ var euro = euro * 10354.03;
 var plane = Number(usdF + usdS + euro);
 
 if (question >= plane) {
-  console.log("Oq yo'l Alisher!😉");
+  alert("Oq yo'l Alisher!😉");
 } else {
-  console.log(" Alisher pulingiz yetmayati!😔");
+  alert(" Alisher pulingiz yetmayapti!😔");
 }
