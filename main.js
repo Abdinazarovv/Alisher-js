@@ -1,8 +1,7 @@
-var question = prompt("Alisher Nechpul pulingiz bor?:");
 var usdF = 500;
 var usdS = 250;
 var euro = 120;
-
+var question = prompt("Alisher Nechpul pulingiz bor?");
 var usdF = usdF * 9433.34 ;
 var usdS = usdS * 9433.34 ;
 var euro = euro * 10354.03;
