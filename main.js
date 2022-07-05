@@ -7,9 +7,9 @@ var usdF = usdF * 9433.34 ;
 var usdS = usdS * 9433.34 ;
 var euro = euro * 10354.03;
 
-var plane = Number(usdF + usdS + euro);
+var airplane = Number(usdF + usdS + euro);
 
-if (question >= plane) {
+if (question >= airplane) {
   alert("Oq yo'l Alisher!😉");
 } else {
   alert(" Alisher pulingiz yetmayapti!😔");
